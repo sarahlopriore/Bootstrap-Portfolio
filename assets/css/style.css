@@ -1,0 +1,36 @@
+
+.navbar a {
+    color: white;
+}
+
+#logo {
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.auth-image {
+    width: 100%;
+}
+
+h2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.work {
+    overflow: auto;
+
+    position: relative;
+}
+
+.work img {
+    width: 75%;
+}
+
+.work h3 {
+    background-color: seagreen;
+    position: relative;
+    text-align: center;
+    color: white;
+    bottom: 10%;
+}
