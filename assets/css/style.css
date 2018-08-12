@@ -19,12 +19,14 @@ h2 {
 
 .work {
     overflow: auto;
-
+    width: 75%;
     position: relative;
 }
 
 .work img {
     width: 75%;
+    height: 75%;
+    margin-bottom: 5%;
 }
 
 .work h3 {
@@ -32,5 +34,6 @@ h2 {
     position: relative;
     text-align: center;
     color: white;
-    bottom: 10%;
+    bottom: 70px;
+    width: 75%;
 }
